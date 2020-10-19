@@ -19,11 +19,11 @@ there are 4 Modes of Operations:
   here The Board Store number of rooms via UART connection with PC.
 * Statuc of The Room
 Then receptionist enter the status of the choosen room from 3 states:
-    *Free (presented by entering number 0).
-    *Occupied (presented by entering number 2).
-    *Room Cleaning (presented by entering number 1).
-*Set Password by UART connection with PC (in case choosing Occupied status).
-*Open the Door by Guest by entering the password using KeyPad.
+    * Free (presented by entering number 0).
+    * Occupied (presented by entering number 2).
+    * Room Cleaning (presented by entering number 1).
+* Set Password by UART connection with PC (in case choosing Occupied status).
+* Open the Door by Guest by entering the password using KeyPad.
  
  Here to test and simulate the project i choose the room number 5 to be controlled by KeyPad but you can change this number if you want.
 ## Software-and-Hardware-Used
