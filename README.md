@@ -31,7 +31,7 @@ This project is completly wrriten in C and run and tested at Keil.
 To run and test this project you only must have Tiva c, Keypad,1 Solenoid"or 2 Leds to test ", and a Pc to act like the receptionist using UART terminal PORT.
 
 ## Schematic
-![Project Design](file:///C:\Users\momen\Desktop\d.png)
+![Project Design](/d.png)
 
 ## Video
 
