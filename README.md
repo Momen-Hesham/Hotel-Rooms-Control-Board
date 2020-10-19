@@ -11,7 +11,7 @@
 ## Description
 This project aims to design a control boardusing Tiva C to lock and unlock a solenoid lock. it gets its input from the hotel receptionist's PC through UART or from the Guest using Keypad.
 The project's goal is to apply many concepts like GPIO, UART, KeyPad, SysTick Timer ... etc. 
-Code was not Professional enough as it was my first project in Embedded Systems. 
+Code was not Professional enough and it did'nt divided into drivers as this project is old one and it was my first project in Embedded Systems. 
 
 ## Project-In-Details
 there are 4 Modes of Operations:
